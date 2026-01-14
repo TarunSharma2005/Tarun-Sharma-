@@ -40,10 +40,6 @@ I’m a passionate learner exploring **Data Analytics** and building projects to
 
 ---
 
-## 📫 Connect With Me
-- GitHub: TarunSharma2005
-- LinkedIn: https://www.linkedin.com/in/tarun-sharma-635351346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarun.lv20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tarun-sharma-635351346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunsharmaa71@gmail.com)
